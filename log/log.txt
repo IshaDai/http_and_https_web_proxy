@@ -1,0 +1,434 @@
+[2022-04-25 21:43:20] Proxy Server Running on Port: 8080
+[2022-04-25 21:43:20] Start Listening ...
+[2022-04-25 21:43:24] Http Links Connection Established
+[2022-04-25 21:43:24] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:24] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:27] The number of the text changes now: 11
+
+[2022-04-25 21:43:27] Http Links Connection Established
+[2022-04-25 21:43:27] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:27] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:28] The number of the text changes now: 4
+
+[2022-04-25 21:43:31] Http Links Connection Established
+[2022-04-25 21:43:31] Http Links Connection Established
+[2022-04-25 21:43:31] Http Links Connection Established
+[2022-04-25 21:43:31] Http Links Connection Established
+[2022-04-25 21:43:31] Http Links Connection Established
+[2022-04-25 21:43:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:31] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:43:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:31] Https Links Connection Established
+[2022-04-25 21:43:31] HTTPS Client-request: CONNECT HTTP/1.1
+[2022-04-25 21:43:32] The number of the text changes now: 1
+
+[2022-04-25 21:43:32] HTTPS Server Status Response: 200 OK
+
+
+[2022-04-25 21:43:33] Http Links Connection Established
+[2022-04-25 21:43:33] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:33] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:37] Http Links Connection Established
+[2022-04-25 21:43:37] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:37] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:40] Http Links Connection Established
+[2022-04-25 21:43:40] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:40] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:41] Http Links Connection Established
+[2022-04-25 21:43:41] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:41] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:42] Http Links Connection Established
+[2022-04-25 21:43:42] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:42] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:43:53] Http Links Connection Established
+[2022-04-25 21:43:53] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:43:53] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:05] Http Links Connection Established
+[2022-04-25 21:44:05] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:05] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:44:06] The number of the text changes now: 1
+
+[2022-04-25 21:44:09] Http Links Connection Established
+[2022-04-25 21:44:09] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:09] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:44:10] The number of the text changes now: 1
+
+[2022-04-25 21:44:21] Http Links Connection Established
+[2022-04-25 21:44:21] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:21] HTTP Server Server Status Response: 301 Moved Permanently
+[2022-04-25 21:44:22] Http Links Connection Established
+[2022-04-25 21:44:22] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:22] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:44:22] The number of the text changes now: 1
+
+[2022-04-25 21:44:23] The number of the text changes now: 1
+
+[2022-04-25 21:44:23] Http Links Connection Established
+[2022-04-25 21:44:23] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:23] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:25] The number of the text changes now: 1
+
+[2022-04-25 21:44:26] The number of the text changes now: 7
+
+[2022-04-25 21:44:27] The number of the text changes now: 21
+
+[2022-04-25 21:44:28] Http Links Connection Established
+[2022-04-25 21:44:28] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:28] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:44:29] Http Links Connection Established
+[2022-04-25 21:44:29] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:29] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:29] Http Links Connection Established
+[2022-04-25 21:44:29] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:29] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:44:29] The number of the text changes now: 1
+
+[2022-04-25 21:44:30] The number of the text changes now: 1
+
+[2022-04-25 21:44:37] Http Links Connection Established
+[2022-04-25 21:44:37] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:37] Http Links Connection Established
+[2022-04-25 21:44:37] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:37] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:37] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:37] Http Links Connection Established
+[2022-04-25 21:44:37] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:37] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:37] Http Links Connection Established
+[2022-04-25 21:44:37] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:37] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:38] The number of the text changes now: 1
+
+[2022-04-25 21:44:38] Http Links Connection Established
+[2022-04-25 21:44:38] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:38] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:39] The number of the text changes now: 1
+
+[2022-04-25 21:44:39] Http Links Connection Established
+[2022-04-25 21:44:39] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:39] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:44] Http Links Connection Established
+[2022-04-25 21:44:44] Http Links Connection Established
+[2022-04-25 21:44:44] Http Links Connection Established
+[2022-04-25 21:44:44] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:44] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:44] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:44] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:44] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:44] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:45] Https Links Connection Established
+[2022-04-25 21:44:45] HTTPS Client-request: CONNECT HTTP/1.1
+[2022-04-25 21:44:46] Http Links Connection Established
+[2022-04-25 21:44:46] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:46] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:46] Http Links Connection Established
+[2022-04-25 21:44:46] HTTPS Server Status Response: 200 OK
+
+
+[2022-04-25 21:44:46] Https Links Connection Established
+[2022-04-25 21:44:46] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:46] HTTPS Client-request: CONNECT HTTP/1.1
+[2022-04-25 21:44:46] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:46] Http Links Connection Established
+[2022-04-25 21:44:46] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:46] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:47] HTTPS Server Status Response: 200 OK
+
+
+[2022-04-25 21:44:49] The number of the text changes now: 11
+
+[2022-04-25 21:44:49] Http Links Connection Established
+[2022-04-25 21:44:49] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:49] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:50] The number of the text changes now: 4
+
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:55] Http Links Connection Established
+[2022-04-25 21:44:55] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:44:55] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:44:56] The number of the text changes now: 1
+
+[2022-04-25 21:45:01] Http Links Connection Established
+[2022-04-25 21:45:01] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:01] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:45:02] The number of the text changes now: 1
+
+[2022-04-25 21:45:05] Http Links Connection Established
+[2022-04-25 21:45:05] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:05] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:08] Http Links Connection Established
+[2022-04-25 21:45:08] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:08] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:45:08] Http Links Connection Established
+[2022-04-25 21:45:08] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:08] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:45:09] The number of the text changes now: 1
+
+[2022-04-25 21:45:09] The number of the text changes now: 1
+
+[2022-04-25 21:45:19] Https Links Connection Established
+[2022-04-25 21:45:19] HTTPS Client-request: CONNECT HTTP/1.1
+[2022-04-25 21:45:19] Http Links Connection Established
+[2022-04-25 21:45:19] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:19] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:45:20] Http Links Connection Established
+[2022-04-25 21:45:20] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:20] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:45:20] The number of the text changes now: 1
+
+[2022-04-25 21:45:21] HTTPS Server Status Response: 200 OK
+
+
+[2022-04-25 21:45:21] The number of the text changes now: 1
+
+[2022-04-25 21:45:23] Http Links Connection Established
+[2022-04-25 21:45:23] HTTP Client-request: POST HTTP/1.1
+[2022-04-25 21:45:23] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:26] The number of the text changes now: 15
+
+[2022-04-25 21:45:35] Http Links Connection Established
+[2022-04-25 21:45:35] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:35] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:36] Https Links Connection Established
+[2022-04-25 21:45:36] HTTPS Client-request: CONNECT HTTP/1.1
+[2022-04-25 21:45:37] The number of the text changes now: 1
+
+[2022-04-25 21:45:37] HTTPS Server Status Response: 200 OK
+
+
+[2022-04-25 21:45:38] Https Links Connection Established
+[2022-04-25 21:45:38] HTTPS Client-request: CONNECT HTTP/1.1
+[2022-04-25 21:45:38] The number of the text changes now: 8
+
+[2022-04-25 21:45:39] The number of the text changes now: 5
+
+[2022-04-25 21:45:39] HTTPS Server Status Response: 200 OK
+
+
+[2022-04-25 21:45:39] Https Links Connection Established
+[2022-04-25 21:45:39] HTTPS Client-request: CONNECT HTTP/1.1
+[2022-04-25 21:45:41] The number of the text changes now: 1
+
+[2022-04-25 21:45:41] HTTPS Server Status Response: 200 OK
+
+
+[2022-04-25 21:45:42] Http Links Connection Established
+[2022-04-25 21:45:42] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:42] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:45] Http Links Connection Established
+[2022-04-25 21:45:45] Http Links Connection Established
+[2022-04-25 21:45:45] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:45] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:45] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:45] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:46] Http Links Connection Established
+[2022-04-25 21:45:46] Http Links Connection Established
+[2022-04-25 21:45:46] Http Links Connection Established
+[2022-04-25 21:45:46] Http Links Connection Established
+[2022-04-25 21:45:46] Http Links Connection Established
+[2022-04-25 21:45:46] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:46] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:46] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:46] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:46] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:46] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:46] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:46] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:46] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:46] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:47] Http Links Connection Established
+[2022-04-25 21:45:47] Http Links Connection Established
+[2022-04-25 21:45:47] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:47] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:47] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:47] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:47] Http Links Connection Established
+[2022-04-25 21:45:47] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:47] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:49] Http Links Connection Established
+[2022-04-25 21:45:49] HTTP Client-request: POST HTTP/1.1
+[2022-04-25 21:45:49] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:49] Http Links Connection Established
+[2022-04-25 21:45:49] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:45:49] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:45:53] The number of the text changes now: 9
+
+[2022-04-25 21:45:56] The number of the text changes now: 6
+
+[2022-04-25 21:46:01] Http Links Connection Established
+[2022-04-25 21:46:01] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:01] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:46:02] The number of the text changes now: 1
+
+[2022-04-25 21:46:13] Http Links Connection Established
+[2022-04-25 21:46:13] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:13] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:46:14] Http Links Connection Established
+[2022-04-25 21:46:14] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:14] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:46:15] The number of the text changes now: 1
+
+[2022-04-25 21:46:15] The number of the text changes now: 1
+
+[2022-04-25 21:46:21] Http Links Connection Established
+[2022-04-25 21:46:21] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:21] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:46:22] The number of the text changes now: 1
+
+[2022-04-25 21:46:23] Http Links Connection Established
+[2022-04-25 21:46:23] Http Links Connection Established
+[2022-04-25 21:46:23] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:23] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:23] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:23] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:46:24] The number of the text changes now: 1
+
+[2022-04-25 21:46:27] Http Links Connection Established
+[2022-04-25 21:46:27] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:27] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:27] The number of the text changes now: 11
+
+[2022-04-25 21:46:28] Http Links Connection Established
+[2022-04-25 21:46:28] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:28] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:28] The number of the text changes now: 4
+
+[2022-04-25 21:46:30] Http Links Connection Established
+[2022-04-25 21:46:30] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:30] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:31] Http Links Connection Established
+[2022-04-25 21:46:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:31] Http Links Connection Established
+[2022-04-25 21:46:31] Http Links Connection Established
+[2022-04-25 21:46:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:31] Http Links Connection Established
+[2022-04-25 21:46:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:31] Http Links Connection Established
+[2022-04-25 21:46:31] Http Links Connection Established
+[2022-04-25 21:46:31] Http Links Connection Established
+[2022-04-25 21:46:31] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:46:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:31] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:31] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:31] The number of the text changes now: 15
+
+[2022-04-25 21:46:32] Http Links Connection Established
+[2022-04-25 21:46:32] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:32] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:32] Http Links Connection Established
+[2022-04-25 21:46:32] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:32] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:32] The number of the text changes now: 1
+
+[2022-04-25 21:46:33] Http Links Connection Established
+[2022-04-25 21:46:33] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:33] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:34] Http Links Connection Established
+[2022-04-25 21:46:34] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:34] Http Links Connection Established
+[2022-04-25 21:46:34] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:34] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:34] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:34] Http Links Connection Established
+[2022-04-25 21:46:34] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:34] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:46:35] Http Links Connection Established
+[2022-04-25 21:46:35] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:35] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:35] The number of the text changes now: 1
+
+[2022-04-25 21:46:36] Http Links Connection Established
+[2022-04-25 21:46:36] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:36] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:38] Http Links Connection Established
+[2022-04-25 21:46:38] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:38] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:40] Http Links Connection Established
+[2022-04-25 21:46:40] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:40] Http Links Connection Established
+[2022-04-25 21:46:40] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:40] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:40] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:43] Http Links Connection Established
+[2022-04-25 21:46:43] Http Links Connection Established
+[2022-04-25 21:46:43] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:43] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:43] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:43] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:45] Http Links Connection Established
+[2022-04-25 21:46:45] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:45] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:46:50] Http Links Connection Established
+[2022-04-25 21:46:50] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:46:50] HTTP Server Server Status Response: 200 OK
+[2022-04-25 21:47:02] Http Links Connection Established
+[2022-04-25 21:47:02] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:47:02] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:47:03] The number of the text changes now: 1
+
+[2022-04-25 21:47:10] Http Links Connection Established
+[2022-04-25 21:47:10] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:47:10] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:47:11] The number of the text changes now: 1
+
+[2022-04-25 21:47:16] Http Links Connection Established
+[2022-04-25 21:47:16] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:47:16] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:47:17] Http Links Connection Established
+[2022-04-25 21:47:17] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:47:17] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:47:17] The number of the text changes now: 1
+
+[2022-04-25 21:47:18] The number of the text changes now: 1
+
+[2022-04-25 21:47:23] Http Links Connection Established
+[2022-04-25 21:47:23] HTTP Client-request: GET HTTP/1.1
+[2022-04-25 21:47:23] HTTP Server Server Status Response: 404 Not Found
+[2022-04-25 21:47:24] The number of the text changes now: 1
+
+[2022-04-25 21:47:35] Server Interrupted ...
+[2022-04-25 21:47:35] Server Stop...
+[2022-04-25 21:47:39] Proxy Server Running on Port: 8080
+[2022-04-25 21:47:39] Start Listening ...
+[2022-04-25 21:47:42] Server Interrupted ...
+[2022-04-25 21:47:42] Server Stop...
